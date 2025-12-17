@@ -89,7 +89,7 @@ ID,Name,Specialization,Subject 1,Subject 1 Class Number,Subject 2,Subject 2 Clas
    4. Get faculty details.
    5. Quit the program.
 
-## Example Usage
+## Usage
 
 ### Option 1: Get Class Size for a Faculty
 - **Input:** `faculty ID`
@@ -109,6 +109,8 @@ ID,Name,Specialization,Subject 1,Subject 1 Class Number,Subject 2,Subject 2 Clas
 
 ### Option 5: Quit
 - Exits the program.
+
+
 
 
 ## Contributions
