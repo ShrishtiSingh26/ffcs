@@ -110,8 +110,5 @@ ID,Name,Specialization,Subject 1,Subject 1 Class Number,Subject 2,Subject 2 Clas
 ### Option 5: Quit
 - Exits the program.
 
-
-
-
 ## Contributions
 Contributions are welcome! Please fork the repository, create a new branch, make your changes, and submit a pull request.
